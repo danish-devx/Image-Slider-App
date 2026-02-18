@@ -11,6 +11,7 @@ body{
   align-items:center;
   background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
   font-family:sans-serif;
+  padding: 0px 20px;
 }
 
 h1{
@@ -60,4 +61,5 @@ button:hover{
 
 .next{
   right:15px;
+
 }
